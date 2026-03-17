@@ -1,4 +1,8 @@
 this is from website from directly github
  and ye h mera wala danvec
+<<<<<<< HEAD
 
 jo pal yha ji bhar jiyo ho h sma kl ho n ho 
+=======
+let see same time pe kya hota h
+>>>>>>> 4fa397cec1d41212f55e4a06b55816520da85eec
